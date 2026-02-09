@@ -1,16 +1,25 @@
-## Hi there 👋
+# Full Stack Developer | AI Automation & Intelligent Agents
+Full Stack Developer, specialized in Applied AI, designing, developing, and maintaining end-to-end solutions, from functional definition to deployment and continuous improvement. Experienced in working with modern web architectures, managing both relational and non-relational data, as well as caching systems, applying software development best practices, clean code structuring, version control, and a strong focus on scalability and maintainability. Motivated to continue growing through real-world software, web, automation, and artificial intelligence-based projects.
 
-<!--
-**alosno-dev/alosno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## TECHNICAL SKILLS
+- Languages: Java, JavaScript, SQL, Python
+- Web Frameworks: React, Next.js, FastAPI, Node.js, TailwindCSS
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- DevOps & Tools: Docker, Git, Cron, Notion, Scrum
+- APIs & Others: REST APIs, RAG, MCP, Android Studio
+-  ML / AI: PyTorch, scikit-learn, AI Automations (n8n, LanGraph)
+- Design & Multimedia: Figma, Adobe Suite, DaVinci Resolve
 
-Here are some ideas to get you started:
+## Proyectos destacados
+- **Provenzal WebApp** – Next.js / Node.js
+  🔗 [Complete application built with Next.js and Node.js](https://github.com/alosno-dev/Provenzal-WebAPP-Next.js-Node.js)
+  
+- **Jet-Rent a car WebApp** – React.js / Php
+  🔗 [Production-grade architecture showcase for Jet-rentacar.com](https://github.com/alosno-dev/Jet-Rent-a-Car-docs)
+  
+- **Automated PowerPoint Data Ingestion Platform** - Python - FastApi
+  🔗 [End-to-end system that automatically extracts, normalizes, and ingests vehicle data from PowerPoint files into a web platform using FastAPI, n8n, and AI agents.](https://github.com/alosno-dev/Automated-PowerPoint-Data-Ingestion-Platform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alonso-g%C3%B3mez-jim%C3%A9nez-138245114)
+- Email: alonsolalash@duck.com
