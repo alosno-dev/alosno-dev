@@ -14,8 +14,8 @@ Full Stack Developer, specialized in Applied AI, designing, developing, and main
 - **Provenzal WebApp** – Next.js / Node.js
 🔗 [Complete application built with Next.js and Node.js](https://github.com/alosno-dev/Provenzal-WebAPP-Next.js-Node.js)
   
-- **Jet-Rent a car WebApp** – React.js / Php
-🔗 [Production-grade architecture showcase for Jet-rentacar.com](https://github.com/alosno-dev/Jet-Rent-a-Car-docs)
+- **Car renting WebApp** – React.js / Php
+🔗 [Production-grade architecture showcase for Renting WebApp](https://github.com/alosno-dev/WebApp-docs)
   
 - **Automated PowerPoint Data Ingestion Platform** - Python - FastApi
 🔗 [End-to-end system that automatically extracts, normalizes, and ingests vehicle data from PowerPoint files into a web platform using FastAPI, n8n, and AI agents.](https://github.com/alosno-dev/Automated-PowerPoint-Data-Ingestion-Platform)
