@@ -21,5 +21,5 @@ Full Stack Developer, specialized in Applied AI, designing, developing, and main
 🔗 [End-to-end system that automatically extracts, normalizes, and ingests vehicle data from PowerPoint files into a web platform using FastAPI, n8n, and AI agents.](https://github.com/alosno-dev/Automated-PowerPoint-Data-Ingestion-Platform)
 
 ## Contact
-- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alonso-g%C3%B3mez-jim%C3%A9nez-138245114)
+- LinkedIn: [www.linkedin.com/in/alonso-gómez-jiménez-138245114](https://www.linkedin.com/in/alonso-g%C3%B3mez-jim%C3%A9nez-138245114)
 - Email: alonsolalash@duck.com
