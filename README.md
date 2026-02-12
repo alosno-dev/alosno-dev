@@ -10,16 +10,6 @@ Full Stack Developer, specialized in Applied AI, designing, developing, and main
 - ML / AI: PyTorch, scikit-learn, AI Automations (n8n, LanGraph)
 - Design & Multimedia: Figma, Adobe Suite, DaVinci Resolve
 
-## Main Projects
-- **Restaurant WebApp** – Next.js / Node.js
-🔗 [Complete application architecture built with Next.js and Node.js](https://github.com/alosno-dev/Restaurant-WebAPP-Next.js-Node.js)
-  
-- **Car renting WebApp** – React.js / Php
-🔗 [Production-grade architecture showcase for Renting WebApp](https://github.com/alosno-dev/WebApp-docs)
-  
-- **Automated PowerPoint Data Ingestion Platform** - Python - FastApi
-🔗 [End-to-end system that automatically extracts, normalizes, and ingests vehicle data from PowerPoint files into a web platform using FastAPI, n8n, and AI agents.](https://github.com/alosno-dev/Automated-PowerPoint-Data-Ingestion-Platform)
-
 ## Contact
 - LinkedIn: [www.linkedin.com/in/alonso-gómez-jiménez-138245114](https://www.linkedin.com/in/alonso-g%C3%B3mez-jim%C3%A9nez-138245114)
 - Email: alonsolalash@duck.com
