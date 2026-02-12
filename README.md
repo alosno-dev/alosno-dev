@@ -11,8 +11,8 @@ Full Stack Developer, specialized in Applied AI, designing, developing, and main
 - Design & Multimedia: Figma, Adobe Suite, DaVinci Resolve
 
 ## Main Projects
-- **Provenzal WebApp** – Next.js / Node.js
-🔗 [Complete application built with Next.js and Node.js](https://github.com/alosno-dev/Provenzal-WebAPP-Next.js-Node.js)
+- **Restaurant WebApp** – Next.js / Node.js
+🔗 [Complete application architecture built with Next.js and Node.js](https://github.com/alosno-dev/Restaurant-WebAPP-Next.js-Node.js)
   
 - **Car renting WebApp** – React.js / Php
 🔗 [Production-grade architecture showcase for Renting WebApp](https://github.com/alosno-dev/WebApp-docs)
